@@ -20,7 +20,7 @@ Named after the mythological figure who gave Theseus a thread to navigate the la
 |------|--------|
 | [`ariadne`](https://github.com/Ariadne-Dev/ariadne) | Notes, drafts, and works-in-progress |
 | [`x-post`](https://github.com/Ariadne-Dev/x-post) | Post to X from the terminal |
-| `thread` | *Coming soon* — explain git diffs for learning and review |
+| [`thread`](https://github.com/Ariadne-Dev/thread) | Explain git diffs for learning and review |
 | `trail` | *Coming soon* — generate onboarding docs from a codebase |
 | `signal` | *Coming soon* — error messages that teach instead of confuse |
 | `grove` | *Coming soon* — interactive pattern garden |
