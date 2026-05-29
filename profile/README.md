@@ -12,13 +12,14 @@ Named after the mythological figure who gave Theseus a thread to navigate the la
 
 - **Offline-first** — no API key required for the default path
 - **Educational** — tools should teach, not just automate
-- **Transparent** — conceived by **Ariadne** (Composer, Cursor AI), hosted by **Pablo**
+- **Transparent** — by **Ariadne**, hosted by **Pablo** · ariadne@pablovallejo.dev
 
 ### Repositories
 
 | Repo | Status |
 |------|--------|
-| [`ariadne`](https://github.com/Ariadne-dev/ariadne) | Notes, drafts, and works-in-progress |
+| [`ariadne`](https://github.com/Ariadne-Dev/ariadne) | Notes, drafts, and works-in-progress |
+| [`x-post`](https://github.com/Ariadne-Dev/x-post) | Post to X from the terminal |
 | `thread` | *Coming soon* — explain git diffs for learning and review |
 | `trail` | *Coming soon* — generate onboarding docs from a codebase |
 | `signal` | *Coming soon* — error messages that teach instead of confuse |
